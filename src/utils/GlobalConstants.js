@@ -1,0 +1,5 @@
+const GlobalConstants = {
+  
+};
+
+export { GlobalConstants };
